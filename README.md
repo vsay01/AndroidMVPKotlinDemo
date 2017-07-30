@@ -18,14 +18,17 @@ Steps for trying out this sample:
 
 * Replace the API Key in the gradle.properties with your pixabay API Key
 
-Visit [PixaBay][https://pixabay.com/]
-Register and go to [PixaBay API][https://pixabay.com/api/docs/] to get your API Key
+Visit https://pixabay.com/ to Register for an account and go to [https://pixabay.com/api/docs/] to get your API Key
+
 ![alt tag](https://github.com/vsay01/VideoApp/blob/master/images/pixabay_api.png?raw=true)
+
 Go to the project and change the <API_KEY> in the gradle.properties
+
 ![alt tag](https://github.com/vsay01/VideoApp/blob/master/images/pixabay_api_key.png?raw=true)
 
 Note: If you have invalid pixabay API Key, you won't see any video in the list.
-![alt tag](https://github.com/vsay01/VideoApp/blob/master/images/empty_result.png?raw=true)
+
+<img src="https://github.com/vsay01/VideoApp/blob/master/images/empty_result.png" width="350">
 
 * Compile and install the mobile app onto your mobile device or emulator.
 
@@ -57,7 +60,7 @@ Pre-requisites
 - Android Support Repository
 - Kotlin
 
-Screenshots
+Demo
 -------------
 
 ![alt tag](https://github.com/vsay01/VideoApp/blob/master/images/app_demo.gif?raw=true)
@@ -71,9 +74,8 @@ This sample uses the Gradle build system. To build this project, use the
 Support
 -------
 
-If you've found an error in this sample, please file an issue::
-https://github.com/vsay01/Android-Model-View-Presenter
-
+If you've found an error in this sample, please file an issue to
+https://github.com/vsay01/VideoApp
 Patches are encouraged, and may be submitted by forking this project and
 submitting a pull request through GitHub. Please see [CONTRIBUTING.md][7] for more details.
 
