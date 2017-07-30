@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VideoApp</string>
+    <string name="backdrop_title">AWESOME VIDEOS</string>
+    <string name="backdrop_subtitle">This season top videos</string>
+</resources>

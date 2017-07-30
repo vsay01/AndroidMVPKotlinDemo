@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="detail_backdrop_height">250dp</dimen>
+    <dimen name="backdrop_title">30dp</dimen>
+    <dimen name="backdrop_subtitle">18dp</dimen>
+    <dimen name="card_margin">5dp</dimen>
+    <dimen name="card_video_radius">0dp</dimen>
+    <dimen name="video_cover_height">160dp</dimen>
+    <dimen name="video_title_padding">10dp</dimen>
+    <dimen name="video_title">15sp</dimen>
+    <dimen name="video_count_padding_bottom">5dp</dimen>
+    <dimen name="video_count">12sp</dimen>
+</resources>
